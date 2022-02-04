@@ -1,8 +1,8 @@
 TicTacToe
 
-=============================
-=  Implementation details   =
-=============================
+-----------------------------
+-  Implementation details   -
+-----------------------------
 
 Choosing the clever strategy:
 This player strategy is filling the board column by column from left to right.
@@ -11,9 +11,9 @@ Implementing the whatever strategy:
 This player strategy is filling the board randomly, by choosing randomly a blank square on uniform
 distribution.
 
-=============================
-=       Game results        =
-=============================
+-----------------------------
+-        Game Result        -
+-----------------------------
 
 Games ran using Board.SIZE=6 and Board.WIN_STREAK=4:
 
